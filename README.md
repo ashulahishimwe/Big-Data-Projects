@@ -1,7 +1,6 @@
 # Big-Data-Projects
 All we have done while attending AI, Big data, Machine learning workshop
-Big Data Project – Group 1
-Big Data Analytics Project (Group 1 Assignment)
+Big Data Analytics Project (Assignment)
 
 Project Overview
 This project was developed as part of a Big Data course assignment.
