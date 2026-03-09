@@ -11,9 +11,9 @@ The project covers data collection, data preprocessing, analysis, and visualizat
 Objectives
 The specific objectives of this project are to:
 
-Understand and apply big data concepts
-Process large datasets efficiently
-Perform data cleaning and transformation
-Conduct data analysis and extract insights
-Visualize results for better interpretation
-Work collaboratively as a team using GitHub
+- Understand and apply big data concepts
+- Process large datasets efficiently
+- Perform data cleaning and transformation
+- Conduct data analysis and extract insights
+- Visualize results for better interpretation
+- Work collaboratively as a team using GitHub
